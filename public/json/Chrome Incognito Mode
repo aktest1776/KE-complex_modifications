@@ -1,0 +1,1 @@
+{"title":"Chrome Incognito","rules":[{"description":"Chrome Incognito Mode","manipulators":[{"conditions":[{"type":"device_if","identifiers":[{"product_id":620,"vendor_id":1452},{"product_id":620,"vendor_id":1452}]}],"type":"basic","from":{f13},"to":[{"shell_command":"open '/Applications/Chrome.app'",[{"key_code":"N","modifiers":["left_gui","left_shift"}]}]}]}]}
